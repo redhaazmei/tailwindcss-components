@@ -1,3 +1,7 @@
+/* Custom Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Nunito&display=swap");
+
+/* Tailwind */
 @tailwind base;
 
 @tailwind components;
